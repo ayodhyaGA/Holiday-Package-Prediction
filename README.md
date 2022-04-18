@@ -86,3 +86,5 @@ So we decided to use the XGBoost model which has the best performance, with the 
 - Customers with basic positions have a high probability of taking vacation packages. with a range of shape values 0 - 0.1
 - Customers who take vacation packages are also those who take basic and standard packages.
 - Single customers are more likely to take vacation packages
+
+Slide: https://docs.google.com/presentation/d/1oOyRF4TSURk_LhF5yGtbLroynFLRyhLOr_vAqcK9GLw/edit?usp=sharing
